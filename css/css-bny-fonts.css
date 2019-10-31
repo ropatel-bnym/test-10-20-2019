@@ -1,0 +1,43 @@
+/*
+ * Legal Disclaimer
+ *
+ * These fonts are not licensed for use on public-facing websites.
+ *
+ * It is illegal to download or use them on other websites.
+ *
+ * While the @font-face statements below may be modified by the client, this
+ * disclaimer may not be removed.
+ *
+ */
+@font-face {
+  font-family: 'Publico Banner';
+  src: url("https://info.bnymellon.com/rs/651-GHF-471/images/PublicoBanner-Roman-Web.eot");
+  src: url("https://info.bnymellon.com/rs/651-GHF-471/images/PublicoBanner-Roman-Web.woff") format("woff");
+  font-weight: 700;
+  font-style: normal;
+  font-stretch: normal;
+}
+@font-face {
+  font-family: 'Publico Banner Extra Bold';
+  src: url("https://info.bnymellon.com/rs/651-GHF-471/images/publicobanner-extrabold-web.eot");
+  src: url("https://info.bnymellon.com/rs/651-GHF-471/images/publicobanner-extrabold-web.woff") format("woff");
+  font-weight: 700;
+  font-style: normal;
+  font-stretch: normal;
+}
+@font-face {
+  font-family: 'Akkurat';
+  src: url("https://info.bnymellon.com/rs/651-GHF-471/images/lineto-akkurat-regular.eot");
+  src: url("https://info.bnymellon.com/rs/651-GHF-471/images/lineto-akkurat-regular.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+  font-stretch: normal;
+}
+@font-face {
+  font-family: 'Akkurat';
+  src: url("https://info.bnymellon.com/rs/651-GHF-471/images/lineto-akkurat-bold.eot");
+  src: url("https://info.bnymellon.com/rs/651-GHF-471/images/lineto-akkurat-bold.woff") format("woff");
+  font-weight: 700;
+  font-style: normal;
+  font-stretch: normal;
+}
